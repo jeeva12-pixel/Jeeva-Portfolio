@@ -1,8 +1,7 @@
 # Jeeva Portfolio
 
-Welcome to my personal portfolio website.
-
-This portfolio shows my skills, projects, and contact information as a beginner web developer.
+Welcome to my personal portfolio website.  
+This portfolio showcases my skills, projects, and contact information as a beginner web developer.
 
 ## Technologies Used
 - HTML
@@ -16,13 +15,13 @@ This portfolio shows my skills, projects, and contact information as a beginner 
 - Contact information
 
 ## Projects Included
-- personal portfolio website
 - Student Management System (Python)
 - Bus Ticket Booking System (Python)
-  
+- Personal Portfolio Website
 
 ## Author
 Jeeva
 
-## GitHub Profile
-https://gitub.com./jeeva12-pixel
+## Links
+- Live Portfolio: [Click Here](https://jeeva12-pixel.github.io/Jeeva-Portfolio/)
+- GitHub Profile: [https://github.com/jeeva12-pixel] https://github.com/jeeva12-pixel
