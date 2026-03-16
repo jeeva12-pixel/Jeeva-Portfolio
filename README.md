@@ -24,4 +24,4 @@ Jeeva
 
 ## Links
 - Live Portfolio: [Click Here](https://jeeva12-pixel.github.io/Jeeva-Portfolio/)
-- GitHub Profile: [https://github.com/jeeva12-pixel] https://github.com/jeeva12-pixel
+- GitHub Profile: https://github.com/jeeva12-pixel
