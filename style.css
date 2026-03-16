@@ -1,0 +1,89 @@
+body{
+font-family:Arial,sans-serif;
+margin:0;
+color:white;
+text-align:center;
+
+background: 
+linear-gradient(270deg,#ff7e5f,#feb47b,#6a11cb,#ff9966);
+background-size: 600% 600%;
+animation: gradientMove 12s ease infinite;}
+
+@keyframes gradientMove{
+0%{background-position:0% 50%;}
+50%{background-position:100% 50%;}
+100%{background-position:0% 50%;}
+}
+
+nav{
+display:flex;
+justify-content:space-between;
+align-items: center;
+background:#222;
+padding:15px 40px;
+}
+
+.logo{
+font-size:24px;font-weight:bold;
+
+}
+
+nav ul{
+list-style:none;
+display:flex;
+margin:0;padding:0;
+}
+nav ul li{margin: left 20px;}
+
+nav ul li a{
+color:white;
+text-decoration:none;
+font-weight: bold;
+}
+nav ul li a:hover{color:#00c6ff;}
+
+header{
+padding:100px 20px;
+}
+
+button{
+padding:10px 20px;
+border:none;
+border-radius:20px;
+cursor:pointer;
+background: #007BFF;
+color: white;
+}
+
+section{
+background:white;
+color:#333;
+margin:40px auto;
+padding:40px;
+border-radius:10px;
+width: 80%;
+max-width: 900px;
+}
+
+.skill{
+display:inline-block;
+background:#007BFF;
+color:white;
+padding:10px 20px;
+margin:10px;
+border-radius:20px;
+}
+
+.project{
+background:#f4f4f4;
+padding:20px;
+margin:20px auto;
+width:80%;
+border-radius:8px;
+transition: 0.3s;
+}
+.project:hover{transform:scale(1.03);}
+
+footer{
+padding:20px;
+}
