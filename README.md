@@ -16,9 +16,10 @@ This portfolio shows my skills, projects, and contact information as a beginner 
 - Contact information
 
 ## Projects Included
+- personal portfolio website
 - Student Management System (Python)
 - Bus Ticket Booking System (Python)
-- Personal Portfolio Website
+  
 
 ## Author
 Jeeva
